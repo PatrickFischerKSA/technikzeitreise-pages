@@ -9,10 +9,4 @@ Der bearbeitbare Quellcode befindet sich im privaten Repository `PatrickFischerK
 - [Lernspiel starten](https://patrickfischerksa.github.io/technikzeitreise-pages/)
 - [Version 1.0 herunterladen](https://github.com/PatrickFischerKSA/technikzeitreise-pages/releases/tag/v1.0-multiplayer)
 
-Die Veröffentlichung enthält drei geprüfte Downloads:
-
-- eine portable Offline-Standalone-Fassung mit relativen Dateipfaden;
-- einen exakten Spiegel der GitHub-Pages-Ausgabe;
-- den bearbeitbaren Quellcode ohne urheberrechtlich geschützte PDFs und Volltexte.
-
-Der geräteübergreifende Mehrspielermodus verwendet einen kostenlosen Supabase-Raum. Fällt dieser Dienst aus, bleiben sämtliche Lerninhalte und die lokale Spielvariante erhalten; lediglich laufende Raumcodes und synchronisierte Spielstände sind dann nicht verfügbar.
+Die öffentliche Website enthält das Lernspiel und das Robotik-Video, aber keine geschützten Quellentexte. Der geräteübergreifende Mehrspielermodus verwendet einen kostenlosen Supabase-Raum. Fällt dieser Dienst aus, bleiben sämtliche Lerninhalte und die lokale Spielvariante erhalten; lediglich laufende Raumcodes und synchronisierte Spielstände sind dann nicht verfügbar.
